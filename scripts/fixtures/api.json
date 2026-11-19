@@ -1,0 +1,12 @@
+{
+  "now": "2026-11-19T00:00:00Z",
+  "repos": {
+    "acme/fresh": { "full_name": "acme/fresh", "archived": false, "disabled": false, "pushed_at": "2026-11-01T10:00:00Z" },
+    "acme/old": { "full_name": "acme/old", "archived": false, "disabled": false, "pushed_at": "2025-11-18T23:59:59Z" },
+    "acme/edge": { "full_name": "acme/edge", "archived": false, "disabled": false, "pushed_at": "2025-11-19T00:00:00Z" },
+    "acme/archived": { "full_name": "acme/archived", "archived": true, "disabled": false, "pushed_at": "2026-11-10T00:00:00Z" },
+    "acme/disabled": { "full_name": "acme/disabled", "archived": false, "disabled": true, "pushed_at": "2026-11-10T00:00:00Z" },
+    "acme/renamed": { "full_name": "acme-org/renamed-tool", "archived": false, "disabled": false, "pushed_at": "2026-10-01T00:00:00Z" },
+    "acme/no-date": { "full_name": "acme/no-date", "archived": false, "disabled": false, "pushed_at": null }
+  }
+}
