@@ -1,0 +1,2 @@
+# These domains often block CI requests and are checked by hand monthly.
+^https?://([^/.:]+\.)*(meta|instagram|facebook|tiktok)\.com(/|$)

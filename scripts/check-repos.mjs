@@ -39,6 +39,7 @@ export function parseGitHubRepos(markdown) {
 }
 
 export function isStale(pushedAt, now = new Date(), maxAgeDays = MAX_AGE_DAYS) {
+  if (pushedAt == null) return true;
   const pushed = new Date(pushedAt);
   if (Number.isNaN(pushed.getTime())) return true;
   return now.getTime() - pushed.getTime() > maxAgeDays * 24 * 60 * 60 * 1000;
@@ -61,7 +62,10 @@ async function fetchRepo(slug, token) {
     'X-GitHub-Api-Version': '2022-11-28',
   };
   if (token) headers.Authorization = `Bearer ${token}`;
-  const response = await fetch(`https://api.github.com/repos/${slug}`, { headers });
+  const response = await fetch(`https://api.github.com/repos/${slug}`, {
+    headers,
+    signal: AbortSignal.timeout(15000),
+  });
   if (response.status === 404) return null;
   if (!response.ok) throw new Error(`${slug}: GitHub API answered ${response.status}`);
   return response.json();
