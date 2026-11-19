@@ -85,7 +85,7 @@ Model weights can carry a different license from the code, so check both before 
 - [Kinocut](https://github.com/KyaniteLabs/kinocut) - Local MCP server and CLI that gives agents checked FFmpeg editing tools, quality gates and an edit record.
 - [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) - Connects Blender to MCP clients so an agent can create and change 3D scenes, objects and materials.
 - [Remotion skills](https://github.com/remotion-dev/skills) - Remotion's agent skills for creating, previewing and rendering projects, including captions and map animations.
-- [ViewGum short-form specs skill](https://github.com/viewgum/skills/tree/main/skills/short-form-specs) - Free agent skill covering safe zones, length limits and caption limits for 9:16 video (by the maintainers).
+- [ViewGum short-form specs skill](https://github.com/viewgum/skills/tree/main/skills/short-form-specs) - Agent skill with the four apps' 9:16 ad-placement safe zones, length limits and caption limits (by the maintainers).
 - [YouTube MCP Server](https://github.com/ZubeidHendricks/youtube-mcp-server) - Retrieves video, channel and playlist metadata through the YouTube Data API and available transcripts through youtube-transcript.
 
 ## Specs, safe zones and templates
@@ -105,7 +105,8 @@ Model weights can carry a different license from the code, so check both before 
 - [Facebook Reels Publishing API](https://developers.facebook.com/documentation/video-api/guides/reels-publishing) - Meta's API for uploading and publishing Reels to a Facebook Page, with its video specs.
 - [Instagram content publishing](https://developers.facebook.com/documentation/instagram-platform/content-publishing) - Meta's guide to publishing Reels, images and carousels to professional Instagram accounts.
 - [Postiz](https://github.com/gitroomhq/postiz-app) - Self-hostable social media scheduler with TikTok, YouTube, Instagram, Facebook and other integrations.
-- [TikTok Content Posting API](https://developers.tiktok.com/docs/en/content-posting-api-get-started) - Posts videos directly or as drafts finished in the app; unaudited apps can Direct Post only privately.
+- [TikTok Content Posting API](https://developers.tiktok.com/docs/en/content-posting-api-get-started) - Direct Post publishes a video to an account; unaudited apps can post only privately.
+- [TikTok Content Posting API, upload](https://developers.tiktok.com/docs/en/content-posting-api-get-started-upload-content) - Uploads a video as a draft the creator finishes and posts in the TikTok app.
 - [TikTok media transfer guide](https://developers.tiktok.com/docs/en/content-posting-api-media-transfer-guide) - File upload, chunk and pull-from-URL rules for sending video to TikTok's API.
 - [YouTube Data API videos.insert](https://developers.google.com/youtube/data/reference/rest/v3/videos/insert) - YouTube's API method for uploading a video with its title, description, tags and privacy status.
 - [YouTube quota calculator](https://developers.google.com/youtube/data/determine_quota_cost) - Quota cost of each YouTube Data API method, including uploads.
@@ -131,6 +132,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before you open a pull reque
 
 ## Footnotes
 
-Every link was checked on 2026-11-19, and every GitHub repository was active within the 12 months before that day.
+Every link was checked on 2026-11-19 (data/checked-2026-11-19.json), and every GitHub repository was active within the 12 months before that day. A monthly job checks them again.
 
 Maintained by [ViewGum](https://viewgum.com), a short-form video maker. Entries by the maintainers are marked.
