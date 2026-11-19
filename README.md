@@ -74,7 +74,7 @@ Model weights can carry a different license from the code, so check both before 
 - [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - OpenAI-compatible speech server for the Kokoro-82M model, packaged in Docker for CPU or GPU.
 - [NeuTTS](https://github.com/neuphonic/neutts) - On-device voice cloning. Air uses Apache 2.0. Nano and 2E use the NeuTTS Open License 1.0.
 - [Piper](https://github.com/OHF-Voice/piper1-gpl) - Local neural text-to-speech engine with a command line, web server and Python API.
-- [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Kyutai's small text-to-speech model that runs on a CPU; about six times real time on an M4 MacBook Air, as Kyutai reports.
+- [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Kyutai's small CPU text-to-speech model; Kyutai reports about six times real time on an M4 MacBook Air.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen's open text-to-speech models with voice cloning, voice design from a description and streaming.
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Microsoft's open voice models, including a realtime 0.5B text-to-speech model and long-form speech recognition.
 
@@ -105,7 +105,7 @@ Model weights can carry a different license from the code, so check both before 
 - [Facebook Reels Publishing API](https://developers.facebook.com/documentation/video-api/guides/reels-publishing) - Meta's API for uploading and publishing Reels to a Facebook Page, with its video specs.
 - [Instagram content publishing](https://developers.facebook.com/documentation/instagram-platform/content-publishing) - Meta's guide to publishing Reels, images and carousels to professional Instagram accounts.
 - [Postiz](https://github.com/gitroomhq/postiz-app) - Self-hostable social media scheduler with TikTok, YouTube, Instagram, Facebook and other integrations.
-- [TikTok Content Posting API](https://developers.tiktok.com/docs/en/content-posting-api-get-started) - Posts a video directly or uploads a draft the creator finishes in the app; Direct Post from unaudited apps is private only.
+- [TikTok Content Posting API](https://developers.tiktok.com/docs/en/content-posting-api-get-started) - Posts videos directly or as drafts finished in the app; unaudited apps can Direct Post only privately.
 - [TikTok media transfer guide](https://developers.tiktok.com/docs/en/content-posting-api-media-transfer-guide) - File upload, chunk and pull-from-URL rules for sending video to TikTok's API.
 - [YouTube Data API videos.insert](https://developers.google.com/youtube/data/reference/rest/v3/videos/insert) - YouTube's API method for uploading a video with its title, description, tags and privacy status.
 - [YouTube quota calculator](https://developers.google.com/youtube/data/determine_quota_cost) - Quota cost of each YouTube Data API method, including uploads.
