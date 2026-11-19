@@ -1,0 +1,136 @@
+# Awesome Short-Form Video [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Vertical short video for TikTok, YouTube Shorts, Instagram Reels and Facebook Reels, made with code, command-line tools or agents.
+
+## Contents
+
+- [Rendering video from code](#rendering-video-from-code)
+- [Editing and cutting](#editing-and-cutting)
+- [Clipping and pipelines](#clipping-and-pipelines)
+- [Transcription and captions](#transcription-and-captions)
+- [Voice](#voice)
+- [Agent skills and MCP servers](#agent-skills-and-mcp-servers)
+- [Specs, safe zones and templates](#specs-safe-zones-and-templates)
+- [Posting and scheduling](#posting-and-scheduling)
+- [Measuring](#measuring)
+- [Related lists](#related-lists)
+
+## Rendering video from code
+
+- [Etro](https://github.com/etro-js/etro) - TypeScript library that composites video, audio, text and image layers with GLSL filters in the browser.
+- [HyperFrames](https://github.com/heygen-com/hyperframes) - Renders HTML, CSS, media and seekable animations to deterministic MP4 video, with a CLI and agent skills.
+- [Manim](https://github.com/3b1b/manim) - Python animation engine for explanatory math videos, the one behind 3Blue1Brown.
+- [Manim Community](https://github.com/ManimCommunity/manim) - Community-maintained fork of Manim with its own documentation and release cycle.
+- [Mediabunny](https://github.com/Vanilagy/mediabunny) - TypeScript toolkit for reading, writing and converting video and audio files in browsers, Node.js, Bun and Deno.
+- [Motion Canvas](https://github.com/motion-canvas/motion-canvas) - TypeScript library that programs vector animations with generators, plus an editor with live preview.
+- [MoviePy](https://github.com/Zulko/moviepy) - Python library for cutting, joining, compositing and titling video.
+- [Remotion](https://github.com/remotion-dev/remotion) - Renders videos from React components; companies above a small size need a company license.
+- [Revideo](https://github.com/midrender/revideo) - TypeScript engine for scenes written in code, with a headless render API and a React player.
+
+## Editing and cutting
+
+- [auto-editor](https://github.com/WyattBlue/auto-editor) - Cuts silence and dead space by audio loudness, then exports a video or a Premiere or Resolve timeline.
+- [FFmpeg](https://ffmpeg.org/) - Command-line tool and libraries that convert, cut, crop, scale, filter and encode video and audio.
+- [ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Batch-normalizes audio loudness with FFmpeg using the EBU R128 procedure.
+- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg compiled to WebAssembly for recording, converting and processing media in the browser.
+- [LosslessCut](https://github.com/mifi/lossless-cut) - Desktop app that trims, cuts and merges video and audio without re-encoding.
+- [MLT](https://github.com/mltframework/mlt) - Multimedia framework behind Shotcut and Kdenlive, with the melt command-line tool for scripted edits.
+- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Detects cuts and transitions and splits video into scenes, from the command line or Python.
+
+## Clipping and pipelines
+
+- [FunClip](https://github.com/modelscope/FunClip) - Local clipping tool that transcribes with FunASR and cuts by text, speaker or LLM picks; Chinese first.
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - Makes a short from a topic: script, stock footage, voiceover, subtitles and music.
+- [OpenShorts](https://github.com/mutonby/openshorts) - Self-hostable app that finds moments in long videos, reframes them to 9:16 and adds captions.
+
+## Transcription and captions
+
+- [Aegisub](https://github.com/TypesettingTools/Aegisub) - Subtitle editor for timing and styling ASS captions, including karaoke effects.
+- [Argmax Open-Source SDK](https://github.com/argmaxinc/argmax-oss-swift) - Swift frameworks for on-device speech-to-text with WhisperKit, plus speaker diarization, on Apple devices.
+- [AutoSubs](https://github.com/tmoroney/auto-subs) - Local subtitle generation as a desktop app or inside DaVinci Resolve, Premiere Pro and After Effects.
+- [Buzz](https://github.com/chidiwilliams/buzz) - Desktop app that transcribes and translates audio offline with Whisper.
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Whisper on CTranslate2 for faster transcription with less memory, including word timestamps.
+- [FFmpeg subtitles filter](https://ffmpeg.org/ffmpeg-filters.html#subtitles-1) - Burns SRT or styled ASS captions into video, using libass.
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Shifts a subtitle file to match the audio of a video automatically.
+- [libass](https://github.com/libass/libass) - Renderer for styled ASS and SSA subtitles, used by FFmpeg and many players.
+- [pysubs2](https://github.com/tkarabela/pysubs2) - Python library for editing SRT, ASS and other subtitle files.
+- [Remotion TikTok template](https://github.com/remotion-dev/template-tiktok) - Remotion starter that transcribes with whisper.cpp and renders TikTok-style word captions.
+- [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Subtitle editor with speech-to-text, syncing, translation and conversion between formats.
+- [Whisper](https://github.com/openai/whisper) - OpenAI's open speech recognition model for transcription and translation in many languages.
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - C and C++ port of Whisper that runs on CPUs and GPUs without Python.
+- [WhisperX](https://github.com/m-bain/whisperX) - Whisper transcription with forced alignment for word timestamps, plus speaker diarization.
+
+## Voice
+
+Model weights can carry a different license from the code, so check both before commercial use.
+
+- [Coqui TTS](https://github.com/idiap/coqui-ai-TTS) - Maintained fork of the Coqui TTS library, with XTTS voice cloning and pretrained models in many languages.
+- [CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multilingual text-to-speech with zero-shot voice cloning, emotion and speed instructions, and streaming output.
+- [F5-TTS](https://github.com/SWivid/F5-TTS) - Flow-matching text-to-speech that clones a voice from a short sample; pretrained weights are non-commercial.
+- [Fish Speech](https://github.com/fishaudio/fish-speech) - Multilingual text-to-speech and voice cloning with a command line, API server and web UI; custom license.
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot voice cloning and text-to-speech web UI that can train on about a minute of audio.
+- [IndexTTS](https://github.com/index-tts/index-tts) - Zero-shot voice cloning with emotion, speed and pronunciation control; custom model license.
+- [Kitten TTS](https://github.com/KittenML/KittenTTS) - Text-to-speech models from 15M parameters that run on a CPU, plus a larger model with voice cloning.
+- [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - OpenAI-compatible speech server for the Kokoro-82M model, packaged in Docker for CPU or GPU.
+- [NeuTTS](https://github.com/neuphonic/neutts) - On-device text-to-speech models with instant voice cloning, shipped as GGUF; custom license.
+- [Piper](https://github.com/OHF-Voice/piper1-gpl) - Local neural text-to-speech engine with a command line, web server and Python API.
+- [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Kyutai's 100M-parameter text-to-speech model that runs faster than real time on a CPU.
+- [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen's open text-to-speech models with voice cloning, voice design from a description and streaming.
+- [VibeVoice](https://github.com/microsoft/VibeVoice) - Microsoft's open voice models, including a realtime 0.5B text-to-speech model and long-form speech recognition.
+
+## Agent skills and MCP servers
+
+- [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server that drives DaVinci Resolve Studio through its scripting API: editing, media, render setup and grading.
+- [HyperFrames skills](https://github.com/heygen-com/hyperframes/tree/main/skills) - Agent skills for writing, previewing and rendering HyperFrames videos from Claude Code, Codex, Cursor or Gemini CLI.
+- [Kinocut](https://github.com/KyaniteLabs/kinocut) - Local MCP server and CLI that gives agents checked FFmpeg editing tools, quality gates and an edit record.
+- [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) - Connects Blender to MCP clients so an agent can create and change 3D scenes, objects and materials.
+- [Remotion skills](https://github.com/remotion-dev/skills) - Remotion's agent skills for creating, previewing and rendering projects, including captions and map animations.
+- [ViewGum skills](https://github.com/viewgum/skills) - Agent skills for 9:16 safe zones in any build, and a connector skill for ViewGum's paid maker (by the maintainers).
+- [YouTube MCP Server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP server that reads YouTube videos, transcripts, channels and playlists through the YouTube Data API.
+
+## Specs, safe zones and templates
+
+- [Facebook Reels ad specs](https://www.facebook.com/business/ads-guide/update/video/facebook-facebook-reels) - Meta's file type, ratio, codec and length guidance for video on Facebook Reels.
+- [Instagram Reels ad specs](https://www.facebook.com/business/ads-guide/update/video/instagram-reels) - Meta's file type, ratio, codec and length guidance for video on Instagram Reels.
+- [Instagram Reels help](https://help.instagram.com/2720958398006062) - Instagram's help page on recording and editing Reels up to three minutes long.
+- [Meta text overlays and safe zones](https://www.facebook.com/business/help/980593475366490) - Meta's guidance on keeping text clear of the app interface in Stories and Reels.
+- [short-form-video-specs](https://github.com/viewgum/short-form-video-specs) - Safe zones in pixels for all four apps as JSON, PNG templates, a JavaScript module and a CLI (by the maintainers).
+- [TikTok in-feed ad specs](https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads) - TikTok's ratio, resolution, file type, length and caption limits for in-feed video.
+- [YouTube Shorts help](https://support.google.com/youtube/answer/10059070?hl=en) - YouTube's guide to making and uploading Shorts.
+- [YouTube Shorts length](https://support.google.com/youtube/answer/15424877?hl=en) - Which square and vertical uploads count as Shorts, up to three minutes long.
+- [YouTube upload encoding settings](https://support.google.com/youtube/answer/1722171?hl=en) - YouTube's recommended container, codecs, bitrates and frame rates for uploads.
+
+## Posting and scheduling
+
+- [Facebook Reels Publishing API](https://developers.facebook.com/documentation/video-api/guides/reels-publishing) - Meta's API for uploading and publishing Reels to a Facebook Page, with its video specs.
+- [Instagram content publishing](https://developers.facebook.com/documentation/instagram-platform/content-publishing) - Meta's guide to publishing Reels, images and carousels to professional Instagram accounts.
+- [Postiz](https://github.com/gitroomhq/postiz-app) - Self-hostable social media scheduler with TikTok, YouTube, Instagram, Facebook and other integrations.
+- [TikTok Content Posting API](https://developers.tiktok.com/docs/en/content-posting-api-get-started) - TikTok's API to post videos directly or as drafts; posts from unaudited apps stay private.
+- [TikTok media transfer guide](https://developers.tiktok.com/docs/en/content-posting-api-media-transfer-guide) - File upload, chunk and pull-from-URL rules for sending video to TikTok's API.
+- [YouTube Data API videos.insert](https://developers.google.com/youtube/data/reference/rest/v3/videos/insert) - YouTube's API method for uploading a video with its title, description, tags and privacy status.
+- [YouTube quota calculator](https://developers.google.com/youtube/data/determine_quota_cost) - Quota cost of each YouTube Data API method, including uploads.
+- [YouTube resumable uploads](https://developers.google.com/youtube/data/guides/using_resumable_upload_protocol) - How to upload large video files to YouTube in resumable chunks.
+
+## Measuring
+
+- [Facebook video insights](https://developers.facebook.com/documentation/video-api/guides/insights) - How to read metrics for videos and Reels published on a Facebook Page.
+- [Instagram media insights](https://developers.facebook.com/documentation/instagram-platform/reference/instagram-media/insights) - Metrics for one Instagram post or Reel, such as views, reach, likes and shares.
+- [TikTok Display API](https://developers.tiktok.com/docs/en/display-api-overview) - Reads a creator's profile and public videos with view, like, comment and share counts, with permission.
+- [YouTube Analytics and Reporting APIs](https://developers.google.com/youtube/analytics) - YouTube's APIs for channel and video metrics, as targeted queries or bulk daily reports.
+- [YouTube Analytics metrics](https://developers.google.com/youtube/analytics/metrics) - Definitions of YouTube Analytics metrics such as views, engaged views and average view duration.
+
+## Related lists
+
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Model Context Protocol servers by category, including multimedia processing.
+- [Awesome Video](https://github.com/krzemienski/awesome-video) - Streaming video tools, frameworks, libraries and learning resources.
+- [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) - Tools, apps and models built around OpenAI's Whisper speech recognition.
+
+## Contributing
+
+Read the [contribution guidelines](CONTRIBUTING.md) before you open a pull request.
+
+## Footnotes
+
+Every link was checked on 2026-11-19, and every GitHub repository was active within the 12 months before that day.
+
+Maintained by [ViewGum](https://viewgum.com), a short-form video maker. Entries by the maintainers are marked.

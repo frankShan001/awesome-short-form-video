@@ -1,0 +1,1062 @@
+{
+  "checked_at": "2026-11-19T04:34:42.526Z",
+  "rule": "GitHub repositories: exist, not archived, not disabled, pushed within 365 days, README without a deprecation notice. Docs: first-party URL answering 2xx.",
+  "note": "Star counts are recorded here only and go stale; they are not shown in the README.",
+  "counts": {
+    "Rendering video from code": 9,
+    "Editing and cutting": 7,
+    "Clipping and pipelines": 3,
+    "Transcription and captions": 14,
+    "Voice": 13,
+    "Agent skills and MCP servers": 7,
+    "Specs, safe zones and templates": 9,
+    "Posting and scheduling": 8,
+    "Measuring": 5,
+    "Related lists": 3
+  },
+  "entries": [
+    {
+      "section": "Rendering video from code",
+      "name": "Etro",
+      "url": "https://github.com/etro-js/etro",
+      "kind": "github",
+      "repo": "etro-js/etro",
+      "full_name": "etro-js/etro",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-04T17:52:03Z",
+      "license": "GPL-3.0",
+      "stars": 1156
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "HyperFrames",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "kind": "github",
+      "repo": "heygen-com/hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-19T04:26:42Z",
+      "license": "Apache-2.0",
+      "stars": 86612
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "Manim",
+      "url": "https://github.com/3b1b/manim",
+      "kind": "github",
+      "repo": "3b1b/manim",
+      "full_name": "3b1b/manim",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-09-09T16:23:48Z",
+      "license": "MIT",
+      "stars": 96669
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "Manim Community",
+      "url": "https://github.com/ManimCommunity/manim",
+      "kind": "github",
+      "repo": "ManimCommunity/manim",
+      "full_name": "ManimCommunity/manim",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-17T22:49:48Z",
+      "license": "MIT",
+      "stars": 42672
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "Mediabunny",
+      "url": "https://github.com/Vanilagy/mediabunny",
+      "kind": "github",
+      "repo": "Vanilagy/mediabunny",
+      "full_name": "Vanilagy/mediabunny",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T21:05:24Z",
+      "license": "MPL-2.0",
+      "stars": 7518
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "Motion Canvas",
+      "url": "https://github.com/motion-canvas/motion-canvas",
+      "kind": "github",
+      "repo": "motion-canvas/motion-canvas",
+      "full_name": "motion-canvas/motion-canvas",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-07-02T20:01:32Z",
+      "license": "MIT",
+      "stars": 20054
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "MoviePy",
+      "url": "https://github.com/Zulko/moviepy",
+      "kind": "github",
+      "repo": "Zulko/moviepy",
+      "full_name": "Zulko/moviepy",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-08-26T06:17:08Z",
+      "license": "MIT",
+      "stars": 15166
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "Remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "kind": "github",
+      "repo": "remotion-dev/remotion",
+      "full_name": "remotion-dev/remotion",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T19:29:23Z",
+      "license": "NOASSERTION",
+      "stars": 74182
+    },
+    {
+      "section": "Rendering video from code",
+      "name": "Revideo",
+      "url": "https://github.com/midrender/revideo",
+      "kind": "github",
+      "repo": "midrender/revideo",
+      "full_name": "midrender/revideo",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-07-15T22:43:55Z",
+      "license": "MIT",
+      "stars": 4220
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "auto-editor",
+      "url": "https://github.com/WyattBlue/auto-editor",
+      "kind": "github",
+      "repo": "WyattBlue/auto-editor",
+      "full_name": "WyattBlue/auto-editor",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T22:33:37Z",
+      "license": "Unlicense",
+      "stars": 5992
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "FFmpeg",
+      "url": "https://ffmpeg.org/",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://ffmpeg.org/"
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "ffmpeg-normalize",
+      "url": "https://github.com/slhck/ffmpeg-normalize",
+      "kind": "github",
+      "repo": "slhck/ffmpeg-normalize",
+      "full_name": "slhck/ffmpeg-normalize",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-17T09:15:44Z",
+      "license": "NOASSERTION",
+      "stars": 1545
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "ffmpeg.wasm",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "kind": "github",
+      "repo": "ffmpegwasm/ffmpeg.wasm",
+      "full_name": "ffmpegwasm/ffmpeg.wasm",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-09-29T21:30:20Z",
+      "license": "MIT",
+      "stars": 17971
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "LosslessCut",
+      "url": "https://github.com/mifi/lossless-cut",
+      "kind": "github",
+      "repo": "mifi/lossless-cut",
+      "full_name": "mifi/lossless-cut",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-14T02:45:16Z",
+      "license": "GPL-2.0",
+      "stars": 46177
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "MLT",
+      "url": "https://github.com/mltframework/mlt",
+      "kind": "github",
+      "repo": "mltframework/mlt",
+      "full_name": "mltframework/mlt",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-19T00:34:33Z",
+      "license": "LGPL-2.1",
+      "stars": 1880
+    },
+    {
+      "section": "Editing and cutting",
+      "name": "PySceneDetect",
+      "url": "https://github.com/Breakthrough/PySceneDetect",
+      "kind": "github",
+      "repo": "Breakthrough/PySceneDetect",
+      "full_name": "Breakthrough/PySceneDetect",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T03:47:03Z",
+      "license": "BSD-3-Clause",
+      "stars": 5576
+    },
+    {
+      "section": "Clipping and pipelines",
+      "name": "FunClip",
+      "url": "https://github.com/modelscope/FunClip",
+      "kind": "github",
+      "repo": "modelscope/FunClip",
+      "full_name": "modelscope/FunClip",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-01T14:52:34Z",
+      "license": "MIT",
+      "stars": 6580
+    },
+    {
+      "section": "Clipping and pipelines",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "kind": "github",
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T04:19:44Z",
+      "license": "MIT",
+      "stars": 144538
+    },
+    {
+      "section": "Clipping and pipelines",
+      "name": "OpenShorts",
+      "url": "https://github.com/mutonby/openshorts",
+      "kind": "github",
+      "repo": "mutonby/openshorts",
+      "full_name": "mutonby/openshorts",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T23:29:14Z",
+      "license": "MIT",
+      "stars": 9194
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "Aegisub",
+      "url": "https://github.com/TypesettingTools/Aegisub",
+      "kind": "github",
+      "repo": "TypesettingTools/Aegisub",
+      "full_name": "TypesettingTools/Aegisub",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-17T22:04:36Z",
+      "license": "NOASSERTION",
+      "stars": 2057
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "Argmax Open-Source SDK",
+      "url": "https://github.com/argmaxinc/argmax-oss-swift",
+      "kind": "github",
+      "repo": "argmaxinc/argmax-oss-swift",
+      "full_name": "argmaxinc/argmax-oss-swift",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-10-27T23:59:52Z",
+      "license": "MIT",
+      "stars": 6463
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "AutoSubs",
+      "url": "https://github.com/tmoroney/auto-subs",
+      "kind": "github",
+      "repo": "tmoroney/auto-subs",
+      "full_name": "tmoroney/auto-subs",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-11T02:09:57Z",
+      "license": "MIT",
+      "stars": 4577
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "Buzz",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "kind": "github",
+      "repo": "chidiwilliams/buzz",
+      "full_name": "chidiwilliams/buzz",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T14:52:32Z",
+      "license": "MIT",
+      "stars": 22903
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "faster-whisper",
+      "url": "https://github.com/SYSTRAN/faster-whisper",
+      "kind": "github",
+      "repo": "SYSTRAN/faster-whisper",
+      "full_name": "SYSTRAN/faster-whisper",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-12T09:05:56Z",
+      "license": "MIT",
+      "stars": 26861
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "FFmpeg subtitles filter",
+      "url": "https://ffmpeg.org/ffmpeg-filters.html#subtitles-1",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://ffmpeg.org/ffmpeg-filters.html#subtitles-1"
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "ffsubsync",
+      "url": "https://github.com/smacke/ffsubsync",
+      "kind": "github",
+      "repo": "smacke/ffsubsync",
+      "full_name": "smacke/ffsubsync",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-07-24T04:53:31Z",
+      "license": "MIT",
+      "stars": 7951
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "libass",
+      "url": "https://github.com/libass/libass",
+      "kind": "github",
+      "repo": "libass/libass",
+      "full_name": "libass/libass",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T10:09:48Z",
+      "license": "ISC",
+      "stars": 1195
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "pysubs2",
+      "url": "https://github.com/tkarabela/pysubs2",
+      "kind": "github",
+      "repo": "tkarabela/pysubs2",
+      "full_name": "tkarabela/pysubs2",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-10T23:08:49Z",
+      "license": "MIT",
+      "stars": 447
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "Remotion TikTok template",
+      "url": "https://github.com/remotion-dev/template-tiktok",
+      "kind": "github",
+      "repo": "remotion-dev/template-tiktok",
+      "full_name": "remotion-dev/template-tiktok",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-09T09:11:53Z",
+      "license": null,
+      "stars": 308
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "Subtitle Edit",
+      "url": "https://github.com/SubtitleEdit/subtitleedit",
+      "kind": "github",
+      "repo": "SubtitleEdit/subtitleedit",
+      "full_name": "SubtitleEdit/subtitleedit",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T20:02:17Z",
+      "license": "MIT",
+      "stars": 15051
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "Whisper",
+      "url": "https://github.com/openai/whisper",
+      "kind": "github",
+      "repo": "openai/whisper",
+      "full_name": "openai/whisper",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-08-31T17:19:19Z",
+      "license": "MIT",
+      "stars": 113021
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "kind": "github",
+      "repo": "ggml-org/whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T15:00:01Z",
+      "license": "MIT",
+      "stars": 55305
+    },
+    {
+      "section": "Transcription and captions",
+      "name": "WhisperX",
+      "url": "https://github.com/m-bain/whisperX",
+      "kind": "github",
+      "repo": "m-bain/whisperX",
+      "full_name": "m-bain/whisperX",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-12T17:34:05Z",
+      "license": "BSD-2-Clause",
+      "stars": 25470
+    },
+    {
+      "section": "Voice",
+      "name": "Coqui TTS",
+      "url": "https://github.com/idiap/coqui-ai-TTS",
+      "kind": "github",
+      "repo": "idiap/coqui-ai-TTS",
+      "full_name": "idiap/coqui-ai-TTS",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-16T15:27:43Z",
+      "license": "MPL-2.0",
+      "stars": 2356
+    },
+    {
+      "section": "Voice",
+      "name": "CosyVoice",
+      "url": "https://github.com/QwenAudio/CosyVoice",
+      "kind": "github",
+      "repo": "QwenAudio/CosyVoice",
+      "full_name": "QwenAudio/CosyVoice",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-05-25T18:15:40Z",
+      "license": "Apache-2.0",
+      "stars": 24444
+    },
+    {
+      "section": "Voice",
+      "name": "F5-TTS",
+      "url": "https://github.com/SWivid/F5-TTS",
+      "kind": "github",
+      "repo": "SWivid/F5-TTS",
+      "full_name": "SWivid/F5-TTS",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-03T15:05:10Z",
+      "license": "MIT",
+      "stars": 15621
+    },
+    {
+      "section": "Voice",
+      "name": "Fish Speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "kind": "github",
+      "repo": "fishaudio/fish-speech",
+      "full_name": "fishaudio/fish-speech",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-14T10:03:36Z",
+      "license": "NOASSERTION",
+      "stars": 33782
+    },
+    {
+      "section": "Voice",
+      "name": "GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "kind": "github",
+      "repo": "RVC-Boss/GPT-SoVITS",
+      "full_name": "RVC-Boss/GPT-SoVITS",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-11T16:26:18Z",
+      "license": "MIT",
+      "stars": 65300
+    },
+    {
+      "section": "Voice",
+      "name": "IndexTTS",
+      "url": "https://github.com/index-tts/index-tts",
+      "kind": "github",
+      "repo": "index-tts/index-tts",
+      "full_name": "index-tts/index-tts",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-09-29T16:06:53Z",
+      "license": "NOASSERTION",
+      "stars": 25188
+    },
+    {
+      "section": "Voice",
+      "name": "Kitten TTS",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "kind": "github",
+      "repo": "KittenML/KittenTTS",
+      "full_name": "KittenML/KittenTTS",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T20:39:46Z",
+      "license": "Apache-2.0",
+      "stars": 16904
+    },
+    {
+      "section": "Voice",
+      "name": "Kokoro-FastAPI",
+      "url": "https://github.com/remsky/Kokoro-FastAPI",
+      "kind": "github",
+      "repo": "remsky/Kokoro-FastAPI",
+      "full_name": "remsky/Kokoro-FastAPI",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T20:17:05Z",
+      "license": "Apache-2.0",
+      "stars": 5707
+    },
+    {
+      "section": "Voice",
+      "name": "NeuTTS",
+      "url": "https://github.com/neuphonic/neutts",
+      "kind": "github",
+      "repo": "neuphonic/neutts",
+      "full_name": "neuphonic/neutts",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-07-30T14:11:22Z",
+      "license": "NOASSERTION",
+      "stars": 6342
+    },
+    {
+      "section": "Voice",
+      "name": "Piper",
+      "url": "https://github.com/OHF-Voice/piper1-gpl",
+      "kind": "github",
+      "repo": "OHF-Voice/piper1-gpl",
+      "full_name": "OHF-Voice/piper1-gpl",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T18:25:14Z",
+      "license": "GPL-3.0",
+      "stars": 6325
+    },
+    {
+      "section": "Voice",
+      "name": "Pocket TTS",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "kind": "github",
+      "repo": "kyutai-labs/pocket-tts",
+      "full_name": "kyutai-labs/pocket-tts",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T10:01:38Z",
+      "license": "MIT",
+      "stars": 10349
+    },
+    {
+      "section": "Voice",
+      "name": "Qwen3-TTS",
+      "url": "https://github.com/QwenLM/Qwen3-TTS",
+      "kind": "github",
+      "repo": "QwenLM/Qwen3-TTS",
+      "full_name": "QwenLM/Qwen3-TTS",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-03-17T06:38:41Z",
+      "license": "Apache-2.0",
+      "stars": 14509
+    },
+    {
+      "section": "Voice",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "kind": "github",
+      "repo": "microsoft/VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-10-08T05:29:29Z",
+      "license": "MIT",
+      "stars": 57292
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "DaVinci Resolve MCP",
+      "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+      "kind": "github",
+      "repo": "samuelgursky/davinci-resolve-mcp",
+      "full_name": "samuelgursky/davinci-resolve-mcp",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-19T02:45:39Z",
+      "license": "MIT",
+      "stars": 4205
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "HyperFrames skills",
+      "url": "https://github.com/heygen-com/hyperframes/tree/main/skills",
+      "kind": "github",
+      "repo": "heygen-com/hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-19T04:26:42Z",
+      "license": "Apache-2.0",
+      "stars": 86612
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "Kinocut",
+      "url": "https://github.com/KyaniteLabs/kinocut",
+      "kind": "github",
+      "repo": "KyaniteLabs/kinocut",
+      "full_name": "KyaniteLabs/kinocut",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T21:02:29Z",
+      "license": "Apache-2.0",
+      "stars": 271
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "MCP for Blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "kind": "github",
+      "repo": "ahujasid/mcp-for-blender",
+      "full_name": "ahujasid/mcp-for-blender",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T10:27:07Z",
+      "license": "MIT",
+      "stars": 34966
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "Remotion skills",
+      "url": "https://github.com/remotion-dev/skills",
+      "kind": "github",
+      "repo": "remotion-dev/skills",
+      "full_name": "remotion-dev/skills",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T10:18:33Z",
+      "license": null,
+      "stars": 7515
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "ViewGum skills",
+      "url": "https://github.com/viewgum/skills",
+      "kind": "github",
+      "repo": "viewgum/skills",
+      "full_name": "viewgum/skills",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-19T04:07:46Z",
+      "license": "NOASSERTION",
+      "stars": 0
+    },
+    {
+      "section": "Agent skills and MCP servers",
+      "name": "YouTube MCP Server",
+      "url": "https://github.com/ZubeidHendricks/youtube-mcp-server",
+      "kind": "github",
+      "repo": "ZubeidHendricks/youtube-mcp-server",
+      "full_name": "ZubeidHendricks/youtube-mcp-server",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-08-08T22:55:53Z",
+      "license": "MIT",
+      "stars": 603
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "Facebook Reels ad specs",
+      "url": "https://www.facebook.com/business/ads-guide/update/video/facebook-facebook-reels",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://www.facebook.com/business/ads-guide/update/video/facebook-facebook-reels"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "Instagram Reels ad specs",
+      "url": "https://www.facebook.com/business/ads-guide/update/video/instagram-reels",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://www.facebook.com/business/ads-guide/update/video/instagram-reels"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "Instagram Reels help",
+      "url": "https://help.instagram.com/2720958398006062",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://help.instagram.com/2720958398006062"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "Meta text overlays and safe zones",
+      "url": "https://www.facebook.com/business/help/980593475366490",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://www.facebook.com/business/help/980593475366490"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "short-form-video-specs",
+      "url": "https://github.com/viewgum/short-form-video-specs",
+      "kind": "github",
+      "repo": "viewgum/short-form-video-specs",
+      "full_name": "viewgum/short-form-video-specs",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-19T04:07:10Z",
+      "license": "NOASSERTION",
+      "stars": 0
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "TikTok in-feed ad specs",
+      "url": "https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://ads.tiktok.com/resources/help/article/tiktok-auction-in-feed-ads"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "YouTube Shorts help",
+      "url": "https://support.google.com/youtube/answer/10059070?hl=en",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://support.google.com/youtube/answer/10059070?hl=en"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "YouTube Shorts length",
+      "url": "https://support.google.com/youtube/answer/15424877?hl=en",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://support.google.com/youtube/answer/15424877?hl=en"
+    },
+    {
+      "section": "Specs, safe zones and templates",
+      "name": "YouTube upload encoding settings",
+      "url": "https://support.google.com/youtube/answer/1722171?hl=en",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://support.google.com/youtube/answer/1722171?hl=en"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "Facebook Reels Publishing API",
+      "url": "https://developers.facebook.com/documentation/video-api/guides/reels-publishing",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.facebook.com/documentation/video-api/guides/reels-publishing"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "Instagram content publishing",
+      "url": "https://developers.facebook.com/documentation/instagram-platform/content-publishing",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.facebook.com/documentation/instagram-platform/content-publishing"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "Postiz",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "kind": "github",
+      "repo": "gitroomhq/postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-18T13:38:05Z",
+      "license": "AGPL-3.0",
+      "stars": 41928
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "TikTok Content Posting API",
+      "url": "https://developers.tiktok.com/docs/en/content-posting-api-get-started",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.tiktok.com/docs/en/content-posting-api-get-started"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "TikTok media transfer guide",
+      "url": "https://developers.tiktok.com/docs/en/content-posting-api-media-transfer-guide",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.tiktok.com/docs/en/content-posting-api-media-transfer-guide"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "YouTube Data API videos.insert",
+      "url": "https://developers.google.com/youtube/data/reference/rest/v3/videos/insert",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.google.com/youtube/data/reference/rest/v3/videos/insert"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "YouTube quota calculator",
+      "url": "https://developers.google.com/youtube/data/determine_quota_cost",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.google.com/youtube/data/determine_quota_cost"
+    },
+    {
+      "section": "Posting and scheduling",
+      "name": "YouTube resumable uploads",
+      "url": "https://developers.google.com/youtube/data/guides/using_resumable_upload_protocol",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.google.com/youtube/data/guides/using_resumable_upload_protocol"
+    },
+    {
+      "section": "Measuring",
+      "name": "Facebook video insights",
+      "url": "https://developers.facebook.com/documentation/video-api/guides/insights",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.facebook.com/documentation/video-api/guides/insights"
+    },
+    {
+      "section": "Measuring",
+      "name": "Instagram media insights",
+      "url": "https://developers.facebook.com/documentation/instagram-platform/reference/instagram-media/insights",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.facebook.com/documentation/instagram-platform/reference/instagram-media/insights"
+    },
+    {
+      "section": "Measuring",
+      "name": "TikTok Display API",
+      "url": "https://developers.tiktok.com/docs/en/display-api-overview",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.tiktok.com/docs/en/display-api-overview"
+    },
+    {
+      "section": "Measuring",
+      "name": "YouTube Analytics and Reporting APIs",
+      "url": "https://developers.google.com/youtube/analytics",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.google.com/youtube/analytics"
+    },
+    {
+      "section": "Measuring",
+      "name": "YouTube Analytics metrics",
+      "url": "https://developers.google.com/youtube/analytics/metrics",
+      "kind": "doc",
+      "status": 200,
+      "final_url": "https://developers.google.com/youtube/analytics/metrics"
+    },
+    {
+      "section": "Related lists",
+      "name": "Awesome MCP Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "kind": "github",
+      "repo": "punkpeye/awesome-mcp-servers",
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-11-17T05:21:40Z",
+      "license": "MIT",
+      "stars": 98098
+    },
+    {
+      "section": "Related lists",
+      "name": "Awesome Video",
+      "url": "https://github.com/krzemienski/awesome-video",
+      "kind": "github",
+      "repo": "krzemienski/awesome-video",
+      "full_name": "krzemienski/awesome-video",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-10-25T21:54:45Z",
+      "license": "CC0-1.0",
+      "stars": 1953
+    },
+    {
+      "section": "Related lists",
+      "name": "Awesome Whisper",
+      "url": "https://github.com/sindresorhus/awesome-whisper",
+      "kind": "github",
+      "repo": "sindresorhus/awesome-whisper",
+      "full_name": "sindresorhus/awesome-whisper",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-09-17T05:00:10Z",
+      "license": "CC0-1.0",
+      "stars": 2434
+    }
+  ],
+  "dropped": [
+    {
+      "repo": "jianfch/stable-ts",
+      "reason": "archived",
+      "pushed_at": "2026-05-30"
+    },
+    {
+      "repo": "rhasspy/piper",
+      "reason": "archived; listed its successor OHF-Voice/piper1-gpl instead"
+    },
+    {
+      "repo": "supertone-inc/supertonic",
+      "reason": "archived (moved to supertone-oss-archive/supertonic)"
+    },
+    {
+      "repo": "resemble-ai/chatterbox",
+      "reason": "README says retired research, no longer maintained since August 2026, although pushed 2026-11-04"
+    },
+    {
+      "repo": "mifi/editly",
+      "reason": "stale: last push 2025-05-12"
+    },
+    {
+      "repo": "diffusionstudio/core",
+      "reason": "stale: last push 2025-11-18"
+    },
+    {
+      "repo": "theatre-js/theatre",
+      "reason": "stale: last push 2024-08-14"
+    },
+    {
+      "repo": "tnfe/FFCreator",
+      "reason": "stale: last push 2024-12-19"
+    },
+    {
+      "repo": "kkroening/ffmpeg-python",
+      "reason": "stale: last push 2024-08-04"
+    },
+    {
+      "repo": "carykh/jumpcutter",
+      "reason": "stale: last push 2024-02-28"
+    },
+    {
+      "repo": "lagmoellertim/unsilence",
+      "reason": "stale: last push 2023-03-28"
+    },
+    {
+      "repo": "RayVentura/ShortGPT",
+      "reason": "stale: last push 2025-02-10"
+    },
+    {
+      "repo": "ClipsAI/clipsai",
+      "reason": "stale: last push 2024-01-17"
+    },
+    {
+      "repo": "olive-editor/olive",
+      "reason": "stale: last push 2024-12-05"
+    },
+    {
+      "repo": "huggingface/distil-whisper",
+      "reason": "stale: last push 2025-01-08"
+    },
+    {
+      "repo": "unconv/captacity",
+      "reason": "stale: last push 2024-06-07"
+    },
+    {
+      "repo": "Purfview/whisper-standalone-win",
+      "reason": "stale: last push 2025-11-07"
+    },
+    {
+      "repo": "coqui-ai/TTS",
+      "reason": "stale since 2024-08-16 and unmaintained; listed the maintained fork idiap/coqui-ai-TTS instead"
+    },
+    {
+      "repo": "hexgrad/kokoro",
+      "reason": "stale: last push 2025-08-06; listed Kokoro-FastAPI instead"
+    },
+    {
+      "repo": "myshell-ai/OpenVoice",
+      "reason": "stale: last push 2025-04-19"
+    },
+    {
+      "repo": "myshell-ai/MeloTTS",
+      "reason": "stale: last push 2024-12-24"
+    },
+    {
+      "repo": "suno-ai/bark",
+      "reason": "stale: last push 2024-08-19"
+    },
+    {
+      "repo": "SesameAILabs/csm",
+      "reason": "stale: last push 2025-05-27"
+    },
+    {
+      "repo": "Zyphra/Zonos",
+      "reason": "stale: last push 2025-03-05"
+    },
+    {
+      "repo": "SparkAudio/Spark-TTS",
+      "reason": "stale: last push 2025-04-09"
+    },
+    {
+      "repo": "nari-labs/dia",
+      "reason": "on the 12 month edge: last push 2025-11-19, stale the next day"
+    },
+    {
+      "repo": "canopyai/Orpheus-TTS",
+      "reason": "last push 2025-12-05, stale within three weeks"
+    },
+    {
+      "repo": "misbahsy/video-audio-mcp",
+      "reason": "stale: last push 2025-05-24"
+    },
+    {
+      "repo": "egoist/ffmpeg-mcp",
+      "reason": "stale: last push 2025-03-29"
+    },
+    {
+      "repo": "tokland/youtube-upload",
+      "reason": "stale: last push 2024-04-25"
+    },
+    {
+      "repo": "heygen-com/skills",
+      "reason": "avatar product skills; out of scope by rule"
+    },
+    {
+      "url": "https://www.remotion.dev/docs/ai/mcp",
+      "reason": "page says Remotion's MCP server was shut down"
+    },
+    {
+      "url": "https://www.blender.org/",
+      "reason": "answers 403 to link checkers (bot challenge); Blender is reached through MCP for Blender"
+    },
+    {
+      "url": "https://support.tiktok.com/en/using-tiktok/creating-videos/upload-videos",
+      "reason": "page renders client-side only; content could not be confirmed"
+    }
+  ]
+}
