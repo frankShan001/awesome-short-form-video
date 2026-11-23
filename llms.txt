@@ -1,0 +1,13 @@
+# Awesome Short-Form Video
+
+> A curated list of open tools and official docs for making vertical short video for TikTok, YouTube Shorts, Instagram Reels and
+> Facebook Reels with code, the command line or agents: rendering from code, editing and cutting, clipping pipelines,
+> transcription and captions, voice, agent skills and MCP servers, specs and safe zones, posting and measuring. Every link is
+> checked in CI. CC0.
+
+- [README](https://github.com/viewgum/awesome-short-form-video/blob/main/README.md): the list
+- [CONTRIBUTING.md](https://github.com/viewgum/awesome-short-form-video/blob/main/CONTRIBUTING.md): what gets in
+
+## Related
+
+- [Free creator tools in the browser](https://viewgum.com/tools): compress, trim, crop, convert and check video without installing anything
