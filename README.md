@@ -32,6 +32,7 @@ Vertical short video for TikTok, YouTube Shorts, Instagram Reels and Facebook Re
 - [auto-editor](https://github.com/WyattBlue/auto-editor) - Cuts silence and dead space by audio loudness, then exports a video or a Premiere or Resolve timeline.
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Command-line tool and libraries that convert, cut, crop, scale, filter and encode video and audio.
 - [ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Batch-normalizes audio loudness with FFmpeg using the EBU R128 procedure.
+- [ffmpeg-vertical-video](https://github.com/viewgum/ffmpeg-vertical-video) - Tested FFmpeg commands for 9:16 video, each run in CI and checked with ffprobe (by the maintainers).
 - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg compiled to WebAssembly for recording, converting and processing media in the browser.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Desktop app that trims, cuts and merges video and audio without re-encoding.
 - [MLT](https://github.com/mltframework/mlt) - Multimedia framework behind Shotcut and Kdenlive, with the melt command-line tool for scripted edits.
@@ -55,6 +56,7 @@ Vertical short video for TikTok, YouTube Shorts, Instagram Reels and Facebook Re
 - [libass](https://github.com/libass/libass) - Renderer for styled ASS and SSA subtitles, used by FFmpeg and many players.
 - [pysubs2](https://github.com/tkarabela/pysubs2) - Python library for editing SRT, ASS and other subtitle files.
 - [Remotion TikTok template](https://github.com/remotion-dev/template-tiktok) - Transcribes with whisper.cpp for word captions. For-profit organizations with over three employees need a company license for commercial use.
+- [short-form-captions](https://github.com/viewgum/short-form-captions) - Turns word timestamps into SRT, WebVTT or ASS captions inside the safe zone and checks reading speed (by the maintainers).
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Subtitle editor with speech-to-text, syncing, translation and conversion between formats.
 - [Whisper](https://github.com/openai/whisper) - OpenAI's open speech recognition model for transcription and translation in many languages.
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - C and C++ port of Whisper that runs on CPUs and GPUs without Python.
@@ -123,6 +125,7 @@ Model weights can carry a different license from the code, so check both before 
 ## Related lists
 
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Model Context Protocol servers by category, including multimedia processing.
+- [Awesome Small Business Video](https://github.com/viewgum/awesome-small-business-video) - Official, free resources for small businesses making short vertical videos (by the maintainers).
 - [Awesome Video](https://github.com/krzemienski/awesome-video) - Streaming video tools, frameworks, libraries and learning resources.
 - [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) - Tools, apps and models built around OpenAI's Whisper speech recognition.
 
@@ -132,6 +135,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before you open a pull reque
 
 ## Footnotes
 
-Every link was checked on 2026-11-19 (data/checked-2026-11-19.json), and every GitHub repository was active within the 12 months before that day. A monthly job checks them again.
+Every link was checked on 2026-11-19 (data/checked-2026-11-19.json) or, for a later entry, on the day it was added, and every GitHub repository was active within the 12 months before that day. A monthly job checks them again.
 
 Maintained by [ViewGum](https://viewgum.com), a short-form video maker. Entries by the maintainers are marked.
